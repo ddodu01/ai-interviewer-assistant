@@ -1,0 +1,21 @@
+Candidate Name: Alex Popescu
+Target Role: Python Developer
+Current Title: Junior Python Developer
+Experience: 1 year
+
+Professional Summary:
+Junior Python Developer with 1 year of experience. Interested in practical software projects, clean documentation and collaborative teams.
+
+Technical Skills:
+Python, Flask, SQL, Git, HTML, CSS, Unit Testing
+
+Experience Highlights:
+- Built small APIs, wrote SQL queries, used Git in university projects.
+- Collaborated with cross-functional teams using Agile practices.
+- Used Git for version control and contributed to code reviews or project documentation.
+
+Education:
+BSc or MSc level studies in Computer Science, Informatics, Engineering or a related field.
+
+Soft Skills:
+Communication, Teamwork, Problem Solving, Time Management, Adaptability

@@ -1,0 +1,49 @@
+Candidate Name: Oana Matei
+Email: oana.matei@example.com
+Phone: +40 700 111 013
+Location: Cluj-Napoca, Romania
+Target Role: Product Owner / Product Manager
+
+Summary:
+Product Manager with experience in Agile delivery, stakeholder management, roadmap planning, requirements translation, user stories, and product documentation. Strong match for collaboration and product processes, but limited fit for hands-on software engineering roles.
+
+Experience:
+Junior Product Manager
+SaaSWorks
+2023 - Present
+- Translated stakeholder needs into user stories and acceptance criteria.
+- Managed backlog prioritization with engineering teams.
+- Participated in sprint planning, reviews, and retrospectives.
+- Helped define product metrics and dashboard requirements.
+- Worked with designers and developers to deliver incremental improvements.
+
+Education:
+Bachelor's Degree in Management Information Systems
+Babeș-Bolyai University, Cluj-Napoca
+2023
+
+Technical Skills:
+- Agile
+- Scrum
+- Kanban
+- Jira
+- Confluence
+- User stories
+- Acceptance criteria
+- Product roadmap
+- Stakeholder interviews
+- Documentation
+- SQL basics
+- Figma basics
+
+Soft Skills:
+- Communication
+- Prioritization
+- Leadership
+- Stakeholder engagement
+- Problem-solving
+- Adaptability
+
+Limitations:
+- Limited coding experience
+- No professional backend or frontend development experience

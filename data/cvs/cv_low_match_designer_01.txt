@@ -1,0 +1,21 @@
+Candidate Name: Paul Dumitrescu
+Target Role: Low match for backend roles
+Current Title: Graphic Designer
+Experience: 5 years
+
+Professional Summary:
+Graphic Designer with 5 years of experience. Interested in practical software projects, clean documentation and collaborative teams.
+
+Technical Skills:
+Figma, Adobe Photoshop, Creativity, Communication, Presentation Skills
+
+Experience Highlights:
+- Designed branding materials and landing page mockups; limited coding experience.
+- Collaborated with cross-functional teams using Agile practices.
+- Used Git for version control and contributed to code reviews or project documentation.
+
+Education:
+BSc or MSc level studies in Computer Science, Informatics, Engineering or a related field.
+
+Soft Skills:
+Communication, Teamwork, Problem Solving, Time Management, Adaptability

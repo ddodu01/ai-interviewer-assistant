@@ -1,0 +1,21 @@
+Candidate Name: Andrei Dima
+Target Role: Data Analyst
+Current Title: Data Analyst
+Experience: 2 years
+
+Professional Summary:
+Data Analyst with 2 years of experience. Interested in practical software projects, clean documentation and collaborative teams.
+
+Technical Skills:
+SQL, Python, Pandas, Excel, Power BI, Data Visualization, Communication
+
+Experience Highlights:
+- Created dashboards and monthly KPI reports for sales and operations.
+- Collaborated with cross-functional teams using Agile practices.
+- Used Git for version control and contributed to code reviews or project documentation.
+
+Education:
+BSc or MSc level studies in Computer Science, Informatics, Engineering or a related field.
+
+Soft Skills:
+Communication, Teamwork, Problem Solving, Time Management, Adaptability

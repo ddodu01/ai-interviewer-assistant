@@ -1,0 +1,49 @@
+Candidate Name: Ioana Dumitrescu
+Email: ioana.dumitrescu@example.com
+Phone: +40 700 111 005
+Location: Cluj-Napoca, Romania
+Target Role: Data Analyst
+
+Summary:
+Junior Data Analyst with experience in Python, SQL, pandas, data cleaning, dashboards, and business reporting. Interested in roles involving data analysis, KPI tracking, portfolio dashboards, and decision support.
+
+Education:
+Bachelor's Degree in Statistics and Data Science
+Babeș-Bolyai University, Cluj-Napoca
+2025
+
+Experience:
+Data Analyst Intern
+Retail Analytics Lab, Cluj-Napoca
+2024 - 2025
+- Cleaned and analyzed sales datasets using Python and pandas.
+- Wrote SQL queries involving joins, filtering, aggregations, and grouping.
+- Created dashboards to track KPIs and customer behavior.
+- Prepared reports and presented insights to non-technical stakeholders.
+
+Projects:
+Portfolio KPI Dashboard:
+- Built a dashboard using Python, pandas, and Plotly.
+- Tracked project capacity, delivery status, and business metrics.
+- Documented assumptions and data transformations.
+
+Technical Skills:
+- Python
+- pandas
+- NumPy
+- SQL
+- PostgreSQL basics
+- Excel
+- Power BI
+- Data visualization
+- Dashboard development
+- Git basics
+- Statistics
+- Data cleaning
+
+Soft Skills:
+- Communication
+- Analytical thinking
+- Stakeholder collaboration
+- Attention to detail
+- Problem-solving

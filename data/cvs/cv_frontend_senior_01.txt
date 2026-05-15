@@ -1,0 +1,21 @@
+Candidate Name: Vlad Marin
+Target Role: Frontend Developer
+Current Title: Senior Frontend Engineer
+Experience: 6 years
+
+Professional Summary:
+Senior Frontend Engineer with 6 years of experience. Interested in practical software projects, clean documentation and collaborative teams.
+
+Technical Skills:
+TypeScript, React, Next.js, Redux, Jest, Tailwind CSS, REST APIs, GraphQL
+
+Experience Highlights:
+- Led frontend architecture for a SaaS dashboard.
+- Collaborated with cross-functional teams using Agile practices.
+- Used Git for version control and contributed to code reviews or project documentation.
+
+Education:
+BSc or MSc level studies in Computer Science, Informatics, Engineering or a related field.
+
+Soft Skills:
+Communication, Teamwork, Problem Solving, Time Management, Adaptability

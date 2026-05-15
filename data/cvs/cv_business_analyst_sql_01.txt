@@ -1,0 +1,50 @@
+Candidate Name: Mihai Pavel
+Email: mihai.pavel@example.com
+Phone: +40 700 111 012
+Location: Bucharest, Romania
+Target Role: Business Analyst
+
+Summary:
+Business Analyst with experience in SQL, Excel, Power BI, stakeholder communication, requirements gathering, process mapping, and KPI dashboards. Partial fit for IT product and dashboard roles, but not a full software engineering profile.
+
+Education:
+Bachelor's Degree in Business Administration
+Academy of Economic Studies, Bucharest
+2024
+
+Experience:
+Business Analyst
+Operations Insights SRL
+2024 - Present
+- Gathered requirements from business stakeholders.
+- Created KPI dashboards using Power BI and Excel.
+- Wrote SQL queries for reporting and operational analysis.
+- Documented processes and supported Agile delivery teams.
+
+Projects:
+Capacity Planning Dashboard:
+- Created reports for team capacity, project status, and delivery risks.
+- Used SQL queries and Power BI visualizations.
+- Presented findings to managers and non-technical users.
+
+Technical Skills:
+- SQL
+- Excel
+- Power BI
+- KPI dashboards
+- Requirements gathering
+- Process mapping
+- Documentation
+- Agile basics
+- Jira basics
+
+Soft Skills:
+- Stakeholder communication
+- Analytical thinking
+- Presentation skills
+- Attention to detail
+- Collaboration
+
+Limitations:
+- No professional software development experience
+- No React, Django, .NET, or Java backend experience

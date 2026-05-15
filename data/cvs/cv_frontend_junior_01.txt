@@ -1,0 +1,21 @@
+Candidate Name: Ioana Stan
+Target Role: Frontend Developer
+Current Title: Junior Frontend Developer
+Experience: 1 year
+
+Professional Summary:
+Junior Frontend Developer with 1 year of experience. Interested in practical software projects, clean documentation and collaborative teams.
+
+Technical Skills:
+JavaScript, React, HTML, CSS, Git, Figma, Bootstrap
+
+Experience Highlights:
+- Implemented reusable UI components and fixed layout issues.
+- Collaborated with cross-functional teams using Agile practices.
+- Used Git for version control and contributed to code reviews or project documentation.
+
+Education:
+BSc or MSc level studies in Computer Science, Informatics, Engineering or a related field.
+
+Soft Skills:
+Communication, Teamwork, Problem Solving, Time Management, Adaptability

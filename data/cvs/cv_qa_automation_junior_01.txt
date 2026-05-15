@@ -1,0 +1,47 @@
+Candidate Name: Daniel Neagu
+Email: daniel.neagu@example.com
+Phone: +40 700 111 009
+Location: Sibiu, Romania
+Target Role: Junior QA Automation Engineer
+
+Summary:
+Junior QA Automation Engineer with experience in manual testing, automated testing, Cypress, Selenium basics, API testing, test cases, bug reporting, and Agile collaboration.
+
+Education:
+Bachelor's Degree in Computer Science
+Lucian Blaga University of Sibiu
+2025
+
+Experience:
+QA Intern
+QualitySoft
+2024 - 2025
+- Created manual test cases for web applications.
+- Automated basic UI flows using Cypress.
+- Tested REST APIs using Postman.
+- Reported bugs with clear reproduction steps.
+- Participated in sprint reviews and regression testing.
+
+Projects:
+E-commerce Test Suite:
+- Built Cypress tests for login, product search, cart, and checkout flows.
+- Added API checks for product endpoints.
+- Documented test scenarios and expected results.
+
+Technical Skills:
+- Cypress
+- Selenium basics
+- Postman
+- REST API testing
+- Manual testing
+- Regression testing
+- Bug reporting
+- JavaScript basics
+- Git
+- Agile
+
+Soft Skills:
+- Attention to detail
+- Communication
+- Patience
+- Quality mindset

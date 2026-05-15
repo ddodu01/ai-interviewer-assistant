@@ -1,0 +1,21 @@
+Candidate Name: Radu Enache
+Target Role: DevOps Engineer
+Current Title: DevOps Engineer
+Experience: 4 years
+
+Professional Summary:
+DevOps Engineer with 4 years of experience. Interested in practical software projects, clean documentation and collaborative teams.
+
+Technical Skills:
+Linux, Docker, Kubernetes, Terraform, AWS, CI/CD, Prometheus, Grafana
+
+Experience Highlights:
+- Built deployment pipelines and monitored production services.
+- Collaborated with cross-functional teams using Agile practices.
+- Used Git for version control and contributed to code reviews or project documentation.
+
+Education:
+BSc or MSc level studies in Computer Science, Informatics, Engineering or a related field.
+
+Soft Skills:
+Communication, Teamwork, Problem Solving, Time Management, Adaptability

@@ -1,0 +1,37 @@
+Job Title: Mobile Developer
+
+    Company Context:
+    We are a growing technology team building software products for international clients. The role involves collaboration with developers, QA engineers, product owners and stakeholders.
+
+    Role Overview:
+    Develop mobile application features and integrate backend APIs.
+
+    Responsibilities:
+    - Analyze requirements and clarify technical assumptions with the team.
+    - Design, implement, test and document reliable solutions.
+    - Collaborate during code reviews, planning sessions and demos.
+    - Improve maintainability, performance and quality of the product.
+
+    Must Have Requirements:
+    - Kotlin
+- Swift
+- REST APIs
+- Git
+- Unit Testing
+- Agile
+- Communication
+
+    Nice to Have / Good to Have:
+    - Firebase Firestore
+- GraphQL
+- CI/CD
+- UI/UX
+
+    Soft Skills:
+    - Communication
+    - Teamwork
+    - Problem Solving
+    - Ownership
+
+    Seniority:
+    Open to junior, mid or senior candidates depending on the final profile and project fit.

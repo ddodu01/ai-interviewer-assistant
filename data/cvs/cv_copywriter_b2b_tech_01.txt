@@ -1,0 +1,48 @@
+Candidate Name: Clara Vasilescu
+Email: clara.vasilescu@example.com
+Phone: +40 700 111 014
+Location: Remote, Romania
+Target Role: Long-Form Copywriter
+
+Summary:
+Long-form copywriter with experience writing B2B technology articles, essays, thought leadership pieces, founder interviews, and editorial content. Strong fit for copywriting roles in technology and services, but weak fit for software engineering roles.
+
+Experience:
+Freelance B2B Technology Copywriter
+2021 - Present
+- Wrote long-form articles for technology startups and consulting firms.
+- Developed arguments around nearshore engineering, AI adoption, software teams, and operational maturity.
+- Conducted founder interviews and subject-matter expert conversations.
+- Repurposed long-form content into social posts and sales enablement assets.
+- Applied brand voice guides consistently across multiple clients.
+
+Content Strategist Assistant
+Editorial Growth Agency
+2019 - 2021
+- Supported editorial calendar planning.
+- Edited drafts for clarity, structure, and argument quality.
+- Researched VC, SaaS, and European tech ecosystems.
+
+Skills:
+- Long-form writing
+- B2B technology writing
+- Editorial strategy
+- Thought leadership
+- Founder interviews
+- Research
+- Brand voice
+- Argument development
+- Content repurposing
+- Async review cycles
+- Deadline management
+
+Soft Skills:
+- Pushback on weak briefs
+- Independent work
+- Clear communication
+- Editorial judgment
+- Attention to detail
+
+Limitations:
+- No professional software development experience
+- No hands-on React, Django, Java, .NET, Docker, or cloud experience

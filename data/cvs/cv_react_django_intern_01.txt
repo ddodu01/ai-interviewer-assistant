@@ -1,0 +1,52 @@
+Candidate Name: Alex Marinescu
+Email: alex.marinescu@example.com
+Phone: +40 700 111 001
+Location: Bucharest, Romania
+Target Role: Web Application Developer Intern
+
+Summary:
+Motivated Computer Science student interested in full-stack web development. Comfortable building small web applications using React, Python, Django, PostgreSQL, and REST APIs. Looking for an internship where I can improve my software engineering skills, contribute to real features, and learn from experienced developers.
+
+Education:
+Bachelor of Science in Computer Science
+University of Bucharest, Romania
+Expected Graduation: 2027
+
+Technical Skills:
+- Programming Languages: Python, JavaScript, TypeScript basics, SQL
+- Frontend: React, HTML, CSS, responsive design, basic accessibility
+- Backend: Django, Django REST Framework basics, REST APIs
+- Databases: PostgreSQL, SQL joins, filtering, aggregations
+- Testing: PyTest basics, Jest basics
+- Tools: Git, GitHub, pull requests, Docker basics
+- Methodologies: Agile, code reviews, technical documentation
+
+Projects:
+Student Task Manager Web App:
+- Built a React frontend with reusable components and basic form validation.
+- Created a Django backend with REST endpoints for tasks, users, and project boards.
+- Used PostgreSQL for data storage and wrote SQL queries for filtering and reporting.
+- Added basic PyTest tests for backend views and simple Jest tests for React components.
+
+Portfolio Dashboard Prototype:
+- Created a dashboard prototype for tracking project progress and team workload.
+- Used React charts and simple REST API calls.
+- Wrote README documentation and setup instructions.
+
+Experience:
+Software Development Volunteer
+Local Student Tech Club, 2025
+- Helped maintain a small internal website.
+- Fixed UI bugs and improved page responsiveness.
+- Used Git branches and pull requests for collaboration.
+
+Soft Skills:
+- Clear communication in English
+- Proactive learning mindset
+- Team collaboration
+- Attention to detail
+- Openness to feedback
+
+Certifications:
+- Introduction to Web Development, online course
+- Git and GitHub Basics, online course

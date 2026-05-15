@@ -1,0 +1,21 @@
+Candidate Name: Daria Muntean
+Target Role: Data Engineer
+Current Title: Data Engineer
+Experience: 3 years
+
+Professional Summary:
+Data Engineer with 3 years of experience. Interested in practical software projects, clean documentation and collaborative teams.
+
+Technical Skills:
+Python, SQL, ETL, Airflow, Spark, AWS, Snowflake, Git
+
+Experience Highlights:
+- Maintained batch pipelines and improved data quality checks.
+- Collaborated with cross-functional teams using Agile practices.
+- Used Git for version control and contributed to code reviews or project documentation.
+
+Education:
+BSc or MSc level studies in Computer Science, Informatics, Engineering or a related field.
+
+Soft Skills:
+Communication, Teamwork, Problem Solving, Time Management, Adaptability

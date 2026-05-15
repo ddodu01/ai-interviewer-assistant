@@ -1,0 +1,48 @@
+Candidate Name: Teodora Lazăr
+Email: teodora.lazar@example.com
+Phone: +40 700 111 015
+Location: Bucharest, Romania
+Target Role: HR Assistant / Office Coordinator
+
+Summary:
+HR assistant with experience in recruitment coordination, onboarding, employee records, scheduling interviews, and administrative support in a law firm. Strong communication and organization skills, but not a technical candidate for software engineering roles.
+
+Experience:
+HR Assistant
+Lazăr & Partners Law Firm
+2022 - Present
+- Scheduled interviews and coordinated communication with candidates.
+- Maintained employee records and onboarding documents.
+- Supported payroll documentation and vacation tracking.
+- Assisted with internal communication and office administration.
+- Helped organize training sessions and team events.
+
+Education:
+Bachelor's Degree in Human Resources Management
+University of Bucharest
+2022
+
+Skills:
+- Recruitment coordination
+- Interview scheduling
+- Onboarding
+- Employee records
+- HR administration
+- Microsoft Office
+- Calendar management
+- Communication
+- Confidentiality
+- Organization
+- English communication
+
+Soft Skills:
+- Empathy
+- Reliability
+- Attention to detail
+- Time management
+- Professional communication
+
+Limitations:
+- No programming experience
+- No web development experience
+- No database, cloud, or DevOps experience

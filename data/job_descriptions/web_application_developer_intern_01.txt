@@ -1,0 +1,196 @@
+Job Title: Web Application Developer Intern
+
+Company: NXP Semiconductors
+Location: Bucharest, Romania
+Contract Type: 1-year contract
+Work Type: Part-time or full-time possible
+Seniority Level: Internship / Student
+
+Company Overview:
+NXP Semiconductors enables secure connections and infrastructure for a smarter world. The company develops secure connectivity solutions for embedded applications and works in areas such as secure connected vehicles, end-to-end security and privacy, and smart connected solutions. NXP has around 45,000 employees in more than 35 countries.
+
+About the Role:
+The Web Application Developer Intern will join the Tools team and help develop and improve an internal web application used by engineering and PMO/PSO stakeholders. The platform includes a React frontend, a Django Python backend, and PostgreSQL databases.
+
+The intern will help design, build, test, and maintain features that improve engineering productivity and portfolio governance. The role involves working closely with product owners, PSO/PMO stakeholders, AAES stakeholders, and DevOps/IT partners using Agile methodologies.
+
+Team:
+- Tools team
+- Engineering stakeholders
+- PMO/PSO stakeholders
+- DevOps and IT partners
+
+Responsibilities:
+- Design, implement, test, and deploy web features across React, Django, Python, and PostgreSQL.
+- Build RESTful APIs.
+- Integrate with internal services such as authentication, reporting, messaging, and data sources.
+- Ensure backward compatibility of APIs and integrations.
+- Design database schemas.
+- Optimize PostgreSQL queries.
+- Apply indexing and partitioning strategies in PostgreSQL for reliability and scalability.
+- Write unit and integration tests.
+- Use testing tools such as PyTest and Jest.
+- Apply secure coding practices.
+- Participate in code reviews.
+- Maintain CI pipelines.
+- Translate PSO and PMO workflows into intuitive user interfaces.
+- Implement accessible and responsive UI components using React.
+- Use modern frontend state management approaches.
+- Partner with DevOps to containerize, deploy, monitor, and troubleshoot applications.
+- Use Docker and CI/CD pipelines such as GitHub Actions or Azure DevOps Pipelines.
+- Work with logging and metrics.
+- Maintain technical documentation.
+- Contribute to coding standards.
+- Collaborate with PSO, VPMO, RTE, and STE communities.
+- Help prioritize the roadmap.
+- Convert requirements into deliverables that support portfolio visibility and planning.
+- Implement UI components and small features in React under mentorship.
+- Fix UI bugs.
+- Improve accessibility and responsiveness.
+- Add and adjust Django views, serializers, and REST endpoints.
+- Write simple unit tests.
+- Assist with code reviews.
+- Write and optimize basic PostgreSQL queries.
+- Help with data validations and migrations.
+- Contribute to automated testing with Jest for frontend and PyTest for backend.
+- Contribute to CI pipelines for routine tasks.
+- Document changes.
+- Keep README notes up to date.
+- Translate small workflow needs into incremental improvements for portfolio dashboards and planning.
+
+What You Will Learn:
+- How to build production features in a mentored enterprise environment.
+- API design basics.
+- Database schema design.
+- Performance fundamentals.
+- Secure coding practices.
+- Code review practices.
+- CI/CD in an enterprise setup.
+- How PSO and PMO processes use tooling for KPIs, capacity, and portfolio visibility.
+
+Must Have Skills:
+- Currently enrolled in a Bachelor’s or Master’s program in Computer Science, Software Engineering, or a related field.
+- Coursework or projects using JavaScript.
+- Coursework or projects using TypeScript.
+- Coursework or projects using React.
+- Good Python knowledge.
+- Familiarity with web concepts.
+- HTTP.
+- REST.
+- Willingness to learn Django.
+- Fundamental SQL knowledge.
+- SQL joins.
+- SQL filtering.
+- Simple SQL aggregations.
+- Git.
+- Pull requests.
+- Collaboration skills.
+- Clear communication in English.
+- Proactive mindset.
+- Learning-oriented mindset.
+
+Nice to Have Skills:
+- Django REST Framework.
+- Jest.
+- React Testing Library.
+- PyTest.
+- Basic Docker commands.
+- Experience with any CI system.
+- Charts and visualization.
+- Python pandas.
+- Dashboard development.
+- Portfolio dashboard experience.
+- Completing scoped tickets with mentor guidance.
+- Writing clean pull requests.
+- Improving test coverage.
+- Reducing UI bugs.
+- Reducing API bugs.
+- Delivering incremental UX improvements.
+- Delivering small API enhancements adopted by users.
+
+Technology Stack:
+Frontend:
+- React
+- JavaScript
+- TypeScript
+- Jest
+- React Testing Library
+
+Backend:
+- Python
+- Django
+- Django REST Framework
+- RESTful APIs
+- PyTest
+
+Database:
+- PostgreSQL
+- SQL
+- Database schemas
+- Query optimization
+- Indexing
+- Partitioning
+- Data validation
+- Database migrations
+
+DevOps and Tools:
+- Git
+- Pull requests
+- Docker
+- GitHub Actions
+- Azure DevOps Pipelines
+- CI/CD pipelines
+- Logging
+- Metrics
+- README documentation
+
+Methodologies:
+- Agile
+- Code reviews
+- Secure coding
+- Technical documentation
+- Coding standards
+- Stakeholder collaboration
+
+Soft Skills:
+- Communication in English
+- Collaboration
+- Proactive attitude
+- Learning mindset
+- Ability to work under mentorship
+- Attention to quality
+- Stakeholder engagement
+- Requirement translation
+- Problem-solving
+
+Expected Outcomes:
+- Complete scoped tickets with mentor guidance.
+- Merge clean pull requests with adequate tests.
+- Improve test coverage.
+- Reduce small UI and API bugs.
+- Deliver incremental UX improvements.
+- Deliver small API enhancements adopted by users.
+- Support PSO dashboards and planning workflows.
+
+Benefits:
+- Salary compensation.
+- Lunch vouchers.
+- 25 vacation days.
+- Flexible working hours.
+- Work-from-home policy.
+- Online and offline learning opportunities.
+- Career development opportunities.
+- Office located in a high-tech hub in Bucharest.
+- Access to public transport, restaurants, and parks.
+- On-site relaxation areas.
+- Library, cafeteria, and restaurant.
+- Social activities and employee events.
+- Free coffee.
+- Fresh fruits on Thursdays.
+- Opportunities to participate in social responsibility activities.
+
+Hiring Process:
+The application process includes an online application and CV submission. After a positive CV screening, candidates may have an initial phone or video conversation with a Talent Acquisition Consultant, followed by several business interviews.
+
+Security Note:
+The successful candidate may be responsible for security-related tasks. The assignment may be in scope of security certifications, therefore a conscious and reliable way of working is necessary.

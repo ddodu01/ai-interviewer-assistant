@@ -1,0 +1,21 @@
+Candidate Name: Elena Rusu
+Target Role: Java Developer
+Current Title: Java Developer
+Experience: 3 years
+
+Professional Summary:
+Java Developer with 3 years of experience. Interested in practical software projects, clean documentation and collaborative teams.
+
+Technical Skills:
+Java, Spring Boot, PostgreSQL, REST APIs, Git, JUnit, Docker, Agile
+
+Experience Highlights:
+- Implemented backend features for banking applications.
+- Collaborated with cross-functional teams using Agile practices.
+- Used Git for version control and contributed to code reviews or project documentation.
+
+Education:
+BSc or MSc level studies in Computer Science, Informatics, Engineering or a related field.
+
+Soft Skills:
+Communication, Teamwork, Problem Solving, Time Management, Adaptability
