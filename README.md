@@ -8,7 +8,7 @@ This starter package contains the first deliverables for Member A:
 - `src/parser.py`: parser for PDF, DOCX and TXT files
 - `notebooks/01_data_analysis.ipynb`: data analysis notebook with basic stats and visualizations
 
-Important: the JD files are synthetic examples, not copied real job ads. For the final submission, you can replace or mix them with real job descriptions collected manually from job boards.
+Important: Most of the JD files are synthetic examples, not copied real job ads. 
 
 ## PyCharm setup
 
