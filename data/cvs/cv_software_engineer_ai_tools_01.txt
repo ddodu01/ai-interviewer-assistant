@@ -1,0 +1,45 @@
+Candidate Name: Victor Radu
+Email: victor.radu@example.com
+Phone: +40 700 111 004
+Location: Iași, Romania
+Target Role: Software Engineer Intern
+
+Summary:
+Software engineering student with strong reasoning ability and experience building small systems in Python, Rust, JavaScript, and Docker. Comfortable learning new technologies quickly and using AI coding tools to support design, testing, and documentation while still reviewing correctness and maintainability.
+
+Education:
+Bachelor of Science in Software Engineering
+Alexandru Ioan Cuza University of Iași
+Expected Graduation: 2027
+
+Technical Skills:
+- Programming Languages: Python, JavaScript, Rust basics, Java basics
+- Backend: REST APIs, gRPC basics, microservices concepts
+- Infrastructure: Docker, Kubernetes basics
+- Testing: unit testing, integration testing concepts
+- Tools: Git, GitHub, GitHub Copilot, Cursor, VS Code
+- Concepts: OOP, data structures, algorithms, debugging, clean architecture
+
+Projects:
+AI-Assisted Code Review Tool:
+- Built a Python prototype that analyzes pull request diffs and suggests review comments.
+- Used prompt engineering to guide an AI assistant toward security and maintainability checks.
+- Added unit tests for parsing and filtering logic.
+
+Microservice Demo:
+- Built two small services communicating through REST APIs.
+- Containerized services using Docker.
+- Practiced API documentation and logging.
+
+Experience:
+Open Source Contributor
+2025 - Present
+- Fixed documentation issues and small bugs in Python repositories.
+- Used pull requests and code reviews to collaborate with maintainers.
+
+Soft Skills:
+- Strong first-principles reasoning
+- High ambition and drive
+- Team-oriented attitude
+- Clear English communication
+- Reliable and transparent working style

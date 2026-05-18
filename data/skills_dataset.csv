@@ -1,0 +1,190 @@
+skill_name,category,aliases
+Python,programming,"Python3, Py"
+Java,programming,"JDK, Java SE"
+JavaScript,programming,"JS, ECMAScript, ES6"
+TypeScript,programming,TS
+C#,programming,"C Sharp, .NET C#"
+C++,programming,"CPP, C plus plus"
+C,programming,ANSI C
+Go,programming,Golang
+Ruby,programming,Ruby language
+PHP,programming,PHP 8
+Kotlin,programming,Kotlin JVM
+Swift,programming,SwiftUI language
+R,programming,R programming
+Scala,programming,Scala language
+SQL,database,Structured Query Language
+HTML,programming,HTML5
+CSS,programming,"CSS3, Cascading Style Sheets"
+Bash,programming,"Shell scripting, sh"
+PowerShell,programming,Windows PowerShell
+MATLAB,programming,MATLAB programming
+React,framework,"React.js, ReactJS"
+Angular,framework,Angular framework
+Vue,framework,"Vue.js, VueJS"
+Node.js,framework,"Node, NodeJS"
+Express.js,framework,"Express, ExpressJS"
+Django,framework,Django REST
+Flask,framework,Flask API
+FastAPI,framework,Fast API
+Spring Boot,framework,"Spring, Java Spring"
+ASP.NET Core,framework,"ASP.NET, Dotnet Core"
+Laravel,framework,Laravel PHP
+Ruby on Rails,framework,"Rails, RoR"
+Next.js,framework,NextJS
+Nuxt.js,framework,NuxtJS
+Svelte,framework,SvelteKit
+jQuery,framework,JQuery
+Bootstrap,framework,Bootstrap CSS
+Tailwind CSS,framework,Tailwind
+Material UI,framework,"MUI, Material-UI"
+Redux,framework,Redux Toolkit
+PostgreSQL,database,Postgres
+MySQL,database,My SQL
+MariaDB,database,Maria DB
+SQLite,database,Sqlite
+MongoDB,database,"Mongo, NoSQL MongoDB"
+Redis,database,Redis cache
+Elasticsearch,database,"Elastic Search, ELK search"
+Oracle Database,database,Oracle DB
+Microsoft SQL Server,database,"MS SQL, MSSQL"
+Cassandra,database,Apache Cassandra
+DynamoDB,database,AWS Dynamo DB
+Firebase Firestore,database,"Firestore, Firebase DB"
+Neo4j,database,"Graph database, Cypher"
+Snowflake,database,Snowflake Data Warehouse
+BigQuery,database,Google BigQuery
+AWS,cloud,Amazon Web Services
+Azure,cloud,Microsoft Azure
+Google Cloud Platform,cloud,"GCP, Google Cloud"
+EC2,cloud,AWS EC2
+S3,cloud,"AWS S3, Simple Storage Service"
+Lambda,cloud,"AWS Lambda, serverless"
+Cloud Functions,cloud,GCP Cloud Functions
+Azure Functions,cloud,Azure serverless
+IAM,cloud,Identity and Access Management
+CloudFormation,cloud,AWS CloudFormation
+Terraform,devops,"Infrastructure as Code, IaC"
+Docker,devops,Docker containers
+Kubernetes,devops,K8s
+Helm,devops,Helm charts
+Jenkins,devops,Jenkins CI
+GitHub Actions,devops,"GitHub CI, Actions"
+GitLab CI,devops,GitLab pipelines
+CircleCI,devops,Circle CI
+Ansible,devops,Configuration management
+Prometheus,devops,Monitoring Prometheus
+Grafana,devops,Dashboards Grafana
+ELK Stack,devops,Elasticsearch Logstash Kibana
+Nginx,devops,NGINX reverse proxy
+Apache HTTP Server,devops,Apache web server
+Linux,tool,"GNU/Linux, Ubuntu, Debian"
+Git,tool,"GitHub, GitLab, version control"
+Bitbucket,tool,Atlassian Bitbucket
+Jira,tool,Atlassian Jira
+Confluence,tool,Atlassian Confluence
+Postman,tool,API testing Postman
+Swagger,tool,"OpenAPI, Swagger UI"
+Figma,tool,"UI design, prototyping"
+VS Code,tool,Visual Studio Code
+PyCharm,tool,JetBrains PyCharm
+IntelliJ IDEA,tool,IntelliJ
+Eclipse,tool,Eclipse IDE
+Maven,tool,Apache Maven
+Gradle,tool,Gradle build
+npm,tool,Node package manager
+Yarn,tool,Yarn package manager
+Webpack,tool,Webpack bundler
+Vite,tool,Vite build tool
+REST APIs,methodology,"RESTful APIs, REST"
+GraphQL,framework,GraphQL API
+gRPC,framework,gRPC services
+Microservices,methodology,Microservice architecture
+Monolith Architecture,methodology,Modular monolith
+Event-Driven Architecture,methodology,"EDA, message-driven"
+Agile,methodology,"Scrum, Kanban, Agile methodology"
+Scrum,methodology,"Sprint planning, daily scrum"
+Kanban,methodology,Kanban board
+Test-Driven Development,methodology,TDD
+Behavior-Driven Development,methodology,BDD
+CI/CD,devops,"Continuous Integration, Continuous Delivery"
+Unit Testing,methodology,Unit tests
+Integration Testing,methodology,Integration tests
+End-to-End Testing,methodology,E2E testing
+Selenium,tool,Selenium WebDriver
+Cypress,tool,Cypress.io
+Playwright,tool,Microsoft Playwright
+JUnit,tool,Java unit testing
+pytest,tool,"Python testing, py.test"
+Jest,tool,JavaScript testing
+Mocha,tool,Mocha JS
+SonarQube,tool,Code quality Sonar
+ESLint,tool,JavaScript linter
+Prettier,tool,Code formatter
+Pandas,framework,Python pandas
+NumPy,framework,Numerical Python
+SciPy,framework,Scientific Python
+scikit-learn,framework,"sklearn, machine learning Python"
+TensorFlow,framework,"TF, Tensorflow"
+PyTorch,framework,Torch
+Keras,framework,Keras deep learning
+OpenCV,framework,"cv2, computer vision"
+spaCy,framework,Spacy NLP
+NLTK,framework,Natural Language Toolkit
+Hugging Face Transformers,framework,"Transformers, HF"
+Sentence-BERT,framework,"SBERT, sentence-transformers"
+LangChain,framework,LangChain framework
+LLM Prompt Engineering,methodology,"Prompt engineering, prompting"
+Machine Learning,methodology,ML
+Deep Learning,methodology,"DL, neural networks"
+Natural Language Processing,methodology,NLP
+Computer Vision,methodology,"CV, image processing"
+Data Analysis,methodology,Data analytics
+Data Visualization,methodology,"Data viz, charts"
+ETL,methodology,Extract Transform Load
+Data Warehousing,methodology,DWH
+Power BI,tool,Microsoft PowerBI
+Tableau,tool,Tableau BI
+Excel,tool,"Microsoft Excel, spreadsheets"
+Communication,soft_skill,"communication skills, interpersonal"
+Teamwork,soft_skill,"collaboration, team player"
+Problem Solving,soft_skill,"analytical thinking, troubleshooting"
+Critical Thinking,soft_skill,structured reasoning
+Adaptability,soft_skill,"flexibility, learning agility"
+Time Management,soft_skill,"prioritization, planning"
+Leadership,soft_skill,"team leadership, mentoring"
+Attention to Detail,soft_skill,"detail-oriented, accuracy"
+Creativity,soft_skill,creative thinking
+Ownership,soft_skill,"accountability, responsibility"
+Customer Focus,soft_skill,"client-oriented, stakeholder management"
+Presentation Skills,soft_skill,"public speaking, demos"
+English,soft_skill,"written English, spoken English"
+Romanian,soft_skill,Romanian language
+UML,tool,Unified Modeling Language
+OOP,methodology,Object-Oriented Programming
+Functional Programming,methodology,FP
+Design Patterns,methodology,software design patterns
+SOLID Principles,methodology,SOLID
+Clean Code,methodology,"code quality, maintainable code"
+API Security,methodology,"OAuth2, JWT, authentication"
+OAuth2,framework,OAuth 2.0
+JWT,framework,JSON Web Token
+Message Queues,devops,"MQ, asynchronous messaging"
+RabbitMQ,devops,Rabbit MQ
+Apache Kafka,devops,"Kafka, event streaming"
+Airflow,tool,"Apache Airflow, workflow orchestration"
+Databricks,tool,"Data bricks, lakehouse"
+Spark,framework,"Apache Spark, PySpark"
+Hadoop,framework,Apache Hadoop
+Manual Testing,methodology,"manual QA, exploratory testing"
+Test Cases,methodology,"test case design, test scenarios"
+Bug Reporting,methodology,"defect reporting, issue reporting"
+Networking,cloud,"TCP/IP, computer networks"
+Documentation,soft_skill,"technical writing, documentation skills"
+SIEM,tool,security information and event management
+Cloud Security,cloud,cloud security practices
+UI/UX,methodology,"user interface, user experience"
+Coaching,soft_skill,"mentoring, facilitation"
+Conflict Resolution,soft_skill,conflict management
+Software Development Lifecycle,methodology,SDLC
+Statistics,methodology,statistical analysis

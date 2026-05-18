@@ -1,0 +1,38 @@
+Job Title: Frontend Developer
+
+    Company Context:
+    We are a growing technology team building software products for international clients. The role involves collaboration with developers, QA engineers, product owners and stakeholders.
+
+    Role Overview:
+    Develop responsive web interfaces for a SaaS product.
+
+    Responsibilities:
+    - Analyze requirements and clarify technical assumptions with the team.
+    - Design, implement, test and document reliable solutions.
+    - Collaborate during code reviews, planning sessions and demos.
+    - Improve maintainability, performance and quality of the product.
+
+    Must Have Requirements:
+    - JavaScript
+- TypeScript
+- React
+- HTML
+- CSS
+- Git
+- REST APIs
+- Attention to Detail
+
+    Nice to Have / Good to Have:
+    - Next.js
+- Tailwind CSS
+- Jest
+- Figma
+
+    Soft Skills:
+    - Communication
+    - Teamwork
+    - Problem Solving
+    - Ownership
+
+    Seniority:
+    Open to junior, mid or senior candidates depending on the final profile and project fit.

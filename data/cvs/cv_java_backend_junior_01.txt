@@ -1,0 +1,47 @@
+Candidate Name: Paul Georgescu
+Email: paul.georgescu@example.com
+Phone: +40 700 111 007
+Location: Brașov, Romania
+Target Role: Junior Java Backend Developer
+
+Summary:
+Junior backend developer with experience in Java, Spring Boot, REST APIs, SQL, PostgreSQL, OOP, debugging, and unit testing. Interested in backend engineering and scalable web services.
+
+Education:
+Bachelor's Degree in Computer Engineering
+Transilvania University of Brașov
+2025
+
+Experience:
+Backend Developer Intern
+CloudApps Romania
+2024 - 2025
+- Built REST endpoints using Java and Spring Boot.
+- Worked with PostgreSQL databases and SQL queries.
+- Added JUnit tests for service classes.
+- Participated in code reviews and Agile sprint planning.
+
+Projects:
+Inventory Management API:
+- Designed RESTful endpoints for products, categories, and stock updates.
+- Used layered architecture with controllers, services, and repositories.
+- Implemented input validation and error handling.
+- Wrote unit tests for business logic.
+
+Technical Skills:
+- Java
+- Spring Boot
+- REST APIs
+- SQL
+- PostgreSQL
+- OOP
+- JUnit
+- Git
+- Docker basics
+- Agile
+
+Soft Skills:
+- Problem-solving
+- Communication
+- Reliability
+- Curiosity

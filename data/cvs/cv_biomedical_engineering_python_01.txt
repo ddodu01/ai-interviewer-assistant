@@ -1,0 +1,48 @@
+Candidate Name: Ana Moldovan
+Email: ana.moldovan@example.com
+Phone: +40 700 111 011
+Location: Groningen, Netherlands
+Target Role: Technical Analyst / Junior Developer
+
+Summary:
+Biomedical Engineering student with strong analytical background and practical experience using Python, MATLAB, image processing, statistics, and data visualization. Partial fit for software and data roles, with limited professional web development experience.
+
+Education:
+Bachelor's Degree in Biomedical Engineering
+University of Groningen
+Expected Graduation: 2027
+
+Projects:
+Medical Image Processing Notebook:
+- Used Python, OpenCV, NumPy, and matplotlib to process grayscale biomedical images.
+- Applied histogram equalization, convolution filters, edge detection, and segmentation.
+- Compared image quality using PSNR and SSIM.
+
+Signal Analysis Project:
+- Used MATLAB and Python to analyze biomedical signals.
+- Applied filtering, frequency analysis, and visualization.
+
+Technical Skills:
+- Python
+- MATLAB
+- NumPy
+- OpenCV
+- matplotlib
+- pandas basics
+- Statistics
+- Image processing
+- Signal processing
+- Jupyter Notebook
+- Git basics
+
+Soft Skills:
+- Scientific reasoning
+- Attention to detail
+- Problem-solving
+- Team collaboration
+- Report writing
+
+Limitations:
+- Limited React experience
+- Limited backend web development experience
+- No professional Django or Angular experience

@@ -1,0 +1,46 @@
+Candidate Name: Rares Preda
+Email: rares.preda@example.com
+Phone: +40 700 111 016
+Location: Timișoara, Romania
+Target Role: Marketing Specialist
+
+Summary:
+Marketing specialist with experience in social media campaigns, content calendars, SEO basics, analytics, and brand communication. Good communication profile, but weak fit for technical software engineering positions.
+
+Experience:
+Digital Marketing Specialist
+CreativeLoop Agency
+2022 - Present
+- Planned and executed social media campaigns.
+- Wrote short-form marketing copy for product launches.
+- Used Google Analytics to track campaign performance.
+- Coordinated with designers and account managers.
+- Prepared monthly performance reports.
+
+Education:
+Bachelor's Degree in Marketing
+West University of Timișoara
+2021
+
+Skills:
+- Social media marketing
+- SEO basics
+- Google Analytics
+- Content planning
+- Campaign reporting
+- Copywriting
+- Canva
+- Meta Ads basics
+- Communication
+- Brand messaging
+
+Soft Skills:
+- Creativity
+- Collaboration
+- Organization
+- Presentation skills
+- Adaptability
+
+Limitations:
+- No software development experience
+- No professional programming, testing, cloud, or database skills

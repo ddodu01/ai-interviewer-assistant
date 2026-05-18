@@ -1,0 +1,37 @@
+Job Title: NLP Engineer
+
+    Company Context:
+    We are a growing technology team building software products for international clients. The role involves collaboration with developers, QA engineers, product owners and stakeholders.
+
+    Role Overview:
+    Develop language-processing components for document analysis.
+
+    Responsibilities:
+    - Analyze requirements and clarify technical assumptions with the team.
+    - Design, implement, test and document reliable solutions.
+    - Collaborate during code reviews, planning sessions and demos.
+    - Improve maintainability, performance and quality of the product.
+
+    Must Have Requirements:
+    - Python
+- NLP
+- spaCy
+- Hugging Face Transformers
+- Sentence-BERT
+- Machine Learning
+- Git
+
+    Nice to Have / Good to Have:
+    - FastAPI
+- Docker
+- LLM Prompt Engineering
+- Elasticsearch
+
+    Soft Skills:
+    - Communication
+    - Teamwork
+    - Problem Solving
+    - Ownership
+
+    Seniority:
+    Open to junior, mid or senior candidates depending on the final profile and project fit.

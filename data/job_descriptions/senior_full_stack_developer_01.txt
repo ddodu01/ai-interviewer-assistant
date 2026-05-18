@@ -1,0 +1,121 @@
+Job Title: Senior Full Stack Developer
+
+Company: Edgeless, part of HeadFirst Group
+Location: Bucharest, Romania
+Work Mode: Hybrid, 2–3 days per week from office
+Seniority: Senior
+Contract Type: Full-time
+
+About the Role:
+Edgeless is building a global platform that connects independent professionals, suppliers, and clients across onboarding, matching, contracts, time recording, and invoicing. The company is expanding internationally and focuses on AI-augmented software development.
+
+The role involves working as a Senior Full Stack Developer in an engineering environment where AI tools are deeply integrated into the software development lifecycle. Engineers use AI agents to support implementation, while they validate output, enforce architecture principles, ensure security, and maintain code quality.
+
+How We Work:
+The company uses Claude Code and Cursor as primary AI-augmented development environments. Features are developed through AI-assisted workflows involving structured documentation, skill containers, and agentic task execution. Engineers define constraints, validate AI-generated output, and enforce quality gates. Code reviews focus on architecture, security, domain correctness, and alignment with engineering principles.
+
+Responsibilities:
+- Deliver complex features end-to-end across the full stack using AI-augmented workflows.
+- Work on .NET backend and Angular frontend development.
+- Validate AI-generated output for correctness, architecture, security, and best practices.
+- Define clear task boundaries, documentation, and constraints for AI agents.
+- Build new capabilities and refactor existing code.
+- Improve quality, performance, and maintainability.
+- Write clean, testable code.
+- Maintain unit and integration test coverage.
+- Validate AI-generated tests.
+- Collaborate with product and design teams.
+- Translate requirements into structured, AI-ready specifications.
+- Participate in code reviews.
+- Share knowledge with the engineering team.
+- Contribute to architectural decisions for scalability and multi-region expansion.
+
+Technology Stack:
+Backend:
+- C#
+- .NET 9+
+- ASP.NET Core
+- Entity Framework Core
+- RESTful APIs
+
+Frontend:
+- Angular 20+
+- TypeScript
+
+Testing:
+- NUnit
+- Cypress
+
+Cloud and Infrastructure:
+- Azure App Services
+- Azure Container Apps
+- Azure Functions
+- Azure Cosmos DB
+- Azure SQL Database
+- Docker
+- Docker Compose
+
+CI/CD:
+- Azure DevOps Pipelines
+- GitHub Actions
+
+AI Development:
+- Claude Code
+- Cursor
+- GitHub Copilot or similar AI coding tools
+
+Must Have Skills:
+- 7+ years of software development experience
+- Strong expertise in .NET
+- Strong expertise in ASP.NET Core
+- Experience creating scalable web applications
+- Experience building web APIs
+- Experience with cloud-based services
+- Recent hands-on Angular experience
+- Experience building responsive component-based frontend applications
+- TypeScript
+- Entity Framework Core
+- Database migrations
+- Relational databases
+- RESTful API design and development
+- API versioning
+- Swagger/OpenAPI documentation
+- API security
+- OAuth2
+- JWT
+- Unit testing
+- Integration testing
+- Experience reviewing tests
+- Daily use of AI coding tools such as Claude Code, Cursor, GitHub Copilot, or similar
+- Ability to validate AI-generated code
+- Engineering mindset focused on quality and validation
+- Strong analytical skills
+- Strong problem-solving skills
+- Ability to adapt to changing requirements and technologies
+- Bachelor’s degree in Computer Science, Computer Engineering, or a related field
+
+Nice to Have Skills:
+- CQRS
+- Domain-Driven Design
+- Azure App Services
+- Azure SQL Database
+- Azure App Configuration Service
+- Docker
+- Docker Compose
+- Distributed systems
+- Message queuing systems
+- Event-driven architecture
+- Prompt structuring
+- Technical specification writing for AI-assisted development
+- Documentation for improving AI output quality
+
+Benefits:
+- Salary package based on experience
+- 20 paid vacation days
+- Private premium healthcare
+- Full-time open-ended contract
+- Flexible working hours
+- Hybrid work model
+- Central Bucharest office
+- Career growth opportunities
+- Friendly and creative working environment
