@@ -1,0 +1,47 @@
+Candidate Name: Maria Popescu
+Email: maria.popescu@example.com
+Phone: +40 700 111 002
+Location: Cluj-Napoca, Romania
+Target Role: Full Stack Engineer Intern
+
+Summary:
+Computer Science undergraduate with strong interest in full-stack engineering. Basic experience with Java, JavaScript, HTML, CSS, REST APIs, object-oriented programming, debugging, and unit testing. Interested in building scalable web applications and learning modern engineering practices in an Agile team.
+
+Education:
+Bachelor of Science in Computer Science
+Babeș-Bolyai University, Cluj-Napoca
+Expected Graduation: 2027
+
+Technical Skills:
+- Programming Languages: Java, JavaScript, Python basics
+- Web: HTML, CSS, HTTP, REST APIs
+- Frontend: React basics, Vue basics
+- Backend: Java Spring Boot basics, Node.js basics
+- Testing: JUnit basics, unit testing, integration testing concepts
+- Tools: Git, GitHub, IntelliJ IDEA, VS Code
+- Concepts: OOP, debugging, clean code, Agile development
+
+Projects:
+Sports Score Tracker:
+- Built a small web application for tracking football match scores.
+- Implemented frontend pages using HTML, CSS, and JavaScript.
+- Created backend endpoints in Java Spring Boot.
+- Practiced REST API integration and JSON data handling.
+
+Library Management App:
+- Designed classes using object-oriented programming principles.
+- Added CRUD operations for books, users, and loans.
+- Wrote basic JUnit tests for service methods.
+
+Experience:
+Teaching Assistant Volunteer
+University Programming Lab, 2025
+- Helped first-year students understand Java basics, loops, classes, and debugging.
+- Reviewed small assignments and gave feedback.
+
+Soft Skills:
+- Strong reasoning ability
+- Team spirit
+- Responsible and reliable
+- Good written and spoken English
+- Willingness to learn quickly

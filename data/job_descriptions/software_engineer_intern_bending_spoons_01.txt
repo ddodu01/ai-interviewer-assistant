@@ -1,0 +1,115 @@
+Job Title: Software Engineer Intern
+
+Company: Bending Spoons
+Contract Type: Permanent or fixed-term
+Work Type: Full-time, with flexible start date and part-time options available
+Seniority Level: Internship / Early Career
+
+Company Overview:
+Bending Spoons aims to build one of the all-time great companies by serving a large number of customers, helping team members reach their full potential, operating with high effectiveness and efficiency, creating value for shareholders, and maintaining high ethical standards.
+
+The company acquires and improves digital businesses for long-term ownership and operation. Its teams work on established products with the ambition, agility, and urgency of a startup. Bending Spoons integrates AI deeply into its work so that human judgment and machine intelligence reinforce each other.
+
+About the Role:
+The Software Engineer Intern role is aimed at a talented, driven, and collaborative candidate who wants to learn quickly, make an impact, and progress their career. The role involves building real software systems used by millions of people and contributing to products at scale.
+
+Responsibilities:
+- Build software systems that matter and take ownership from idea to production.
+- Create and improve systems used by millions of users.
+- Work on products that evolve and scale over time.
+- Use AI tools directly in the development workflow.
+- Apply AI tools to design, implementation, testing, and documentation.
+- Maintain high standards for correctness, reliability, and maintainability.
+- Work across diverse technology stacks with end-to-end ownership.
+- Choose appropriate technologies for each engineering challenge.
+- Work with monoliths and microservices.
+- Work with API technologies such as gRPC and REST.
+- Work with infrastructure technologies such as Kubernetes and Docker.
+- Work with programming languages such as Python and Rust.
+- Apply technologies thoughtfully, focusing on depth and purpose rather than trends.
+- Question unnecessary complexity.
+- Improve architectures, pipelines, and codebases.
+- Build systems that are simpler, more scalable, and easier to maintain.
+
+Must Have Skills:
+- Strong reasoning ability.
+- Ability to solve complex problems when given the necessary knowledge.
+- First-principles thinking.
+- Ability to structure ideas clearly.
+- Attention to important details.
+- Ambition and drive.
+- Strong initiative, effort, and tenacity.
+- Strong sense of ownership and responsibility.
+- High personal standards for quality.
+- Team spirit.
+- Willingness to support the best idea, not only one's own idea.
+- Reliability, honesty, and transparency.
+- Proficiency in English reading, writing, and speaking.
+
+Technical Skills Mentioned:
+- AI-assisted software development.
+- AI tools for development workflows.
+- Software design.
+- Software implementation.
+- Software testing.
+- Technical documentation.
+- Monolithic architecture.
+- Microservices architecture.
+- gRPC.
+- REST.
+- Kubernetes.
+- Docker.
+- Python.
+- Rust.
+- Scalable systems.
+- Maintainable codebases.
+- Architecture improvement.
+- Pipeline improvement.
+
+Soft Skills:
+- Problem-solving.
+- Reasoning.
+- Critical thinking.
+- First-principles thinking.
+- Attention to detail.
+- Drive.
+- Initiative.
+- Tenacity.
+- Ownership.
+- Responsibility.
+- Teamwork.
+- Collaboration.
+- Reliability.
+- Honesty.
+- Transparency.
+- Communication in English.
+
+Benefits:
+- Work in small, result-oriented, autonomous teams.
+- Opportunity to work with talented and entrepreneurial colleagues.
+- Strong opportunity for career growth.
+- Competitive pay.
+- Access to company equity for permanent contracts.
+- Flexible hours.
+- Remote working.
+- Unlimited support for learning and training.
+- Top-of-the-market health insurance.
+- Relocation package.
+- Parental support.
+- Yearly company retreat.
+- Flexible start date.
+- Possibility to begin part-time and transition to full-time after graduation.
+
+Compensation Information:
+The company states that compensation varies by location and expected impact. For individuals at the start of their career, typical annual salary ranges mentioned include GBP 85,797 in London and EUR 66,065 elsewhere in Europe. For candidates assessed as having considerable relevant experience, higher ranges may apply. Compensation can grow as experience and contribution increase.
+
+Candidate Profile:
+The ideal candidate is talented, driven, collaborative, ambitious, and capable of learning quickly. The candidate should be comfortable using AI as part of the engineering workflow, solving complex problems, working with different technologies, and contributing to high-quality software systems.
+
+Expected Outcomes:
+- Learn and grow quickly in a high-performance engineering environment.
+- Contribute to important software products.
+- Use AI tools to increase development impact.
+- Help simplify and improve technical systems.
+- Work effectively in small autonomous teams.
+- Take ownership of meaningful engineering work.

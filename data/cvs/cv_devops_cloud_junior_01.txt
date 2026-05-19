@@ -1,0 +1,48 @@
+Candidate Name: Raluca Enache
+Email: raluca.enache@example.com
+Phone: +40 700 111 008
+Location: Bucharest, Romania
+Target Role: Junior DevOps Engineer
+
+Summary:
+Junior DevOps Engineer with hands-on experience in Docker, CI/CD pipelines, GitHub Actions, Azure basics, Linux, monitoring, and deployment automation. Interested in cloud infrastructure and reliable software delivery.
+
+Education:
+Bachelor's Degree in Information Technology
+Politehnica University of Bucharest
+2025
+
+Experience:
+DevOps Intern
+InfraScale Solutions
+2024 - 2025
+- Created Dockerfiles for small web applications.
+- Maintained GitHub Actions workflows for testing and deployment.
+- Assisted with Azure App Services deployments.
+- Monitored logs and helped troubleshoot failed builds.
+- Documented deployment steps in README files.
+
+Projects:
+Containerized Web Application:
+- Containerized a Python Flask app with Docker.
+- Created a Docker Compose setup with app and PostgreSQL services.
+- Added CI checks for linting and tests.
+
+Technical Skills:
+- Docker
+- Docker Compose
+- GitHub Actions
+- Azure App Services basics
+- CI/CD
+- Linux
+- Bash
+- Git
+- Monitoring basics
+- Logging
+- PostgreSQL basics
+
+Soft Skills:
+- Documentation
+- Team collaboration
+- Structured problem-solving
+- Ownership

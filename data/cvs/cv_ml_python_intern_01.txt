@@ -1,0 +1,44 @@
+Candidate Name: Stefan Munteanu
+Email: stefan.munteanu@example.com
+Phone: +40 700 111 010
+Location: Cluj-Napoca, Romania
+Target Role: Machine Learning Intern
+
+Summary:
+AI student with experience in Python, machine learning basics, data preprocessing, scikit-learn, pandas, NumPy, and model evaluation. Interested in applying AI to practical software products.
+
+Education:
+Bachelor's Degree in Artificial Intelligence
+University of Groningen
+Expected Graduation: 2027
+
+Projects:
+Skill Matching Prototype:
+- Built a Python prototype using sentence embeddings and cosine similarity.
+- Compared job description skills against candidate CV skills.
+- Used pandas for dataset processing and matplotlib for visualizations.
+
+Image Classification Project:
+- Trained simple machine learning models for image classification.
+- Used scikit-learn and basic neural network concepts.
+- Evaluated results using accuracy and confusion matrices.
+
+Technical Skills:
+- Python
+- pandas
+- NumPy
+- scikit-learn
+- machine learning basics
+- data preprocessing
+- model evaluation
+- matplotlib
+- Git
+- Jupyter Notebook
+- REST APIs basics
+
+Soft Skills:
+- Analytical thinking
+- Curiosity
+- Problem-solving
+- Communication
+- Independent learning

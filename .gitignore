@@ -1,23 +1,24 @@
-# ==========================================
-# 1. Medii Virtuale (Obligatoriu de ignorat)
-# ==========================================
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
 venv/
 env/
 .venv/
 
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
 
-# ==========================================
-# 5. Setări ale editoarelor de cod
-# ==========================================
+# IDE / editor settings
 .idea/
 .vscode/
 
-# ==========================================
-# 6. Jupyter Notebook Checkpoints
-# ==========================================
-.ipynb_checkpoints/
-
-# ==========================================
-# 7. Parole și variabile de mediu
-# ==========================================
+# Environment variables
 .env
+
+# OS files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,49 @@
+Candidate Name: Elena Stan
+Email: elena.stan@example.com
+Phone: +40 700 111 006
+Location: Timișoara, Romania
+Target Role: Junior Frontend Developer
+
+Summary:
+Junior Frontend Developer focused on React, JavaScript, TypeScript, responsive design, accessibility, and UI quality. Experienced in building component-based interfaces and working with REST APIs.
+
+Education:
+Bachelor's Degree in Computer Science
+West University of Timișoara
+2025
+
+Experience:
+Frontend Developer Intern
+WebCraft Studio
+2024 - 2025
+- Built reusable React components for internal dashboards.
+- Connected frontend pages to REST APIs.
+- Fixed UI bugs and improved responsiveness.
+- Added basic accessibility improvements.
+- Used Git branches and pull requests.
+
+Projects:
+Expense Tracker:
+- Created a React single-page application with reusable components.
+- Used local storage and mock REST API calls.
+- Added basic Jest tests for UI behavior.
+
+Technical Skills:
+- React
+- JavaScript
+- TypeScript
+- HTML
+- CSS
+- Responsive design
+- Accessibility basics
+- REST APIs
+- Jest
+- React Testing Library
+- Git
+- GitHub
+
+Soft Skills:
+- Communication
+- Team collaboration
+- Learning mindset
+- Attention to detail

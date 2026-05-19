@@ -1,0 +1,38 @@
+Job Title: Machine Learning Engineer
+
+    Company Context:
+    We are a growing technology team building software products for international clients. The role involves collaboration with developers, QA engineers, product owners and stakeholders.
+
+    Role Overview:
+    Build ML prototypes and deploy NLP classification models.
+
+    Responsibilities:
+    - Analyze requirements and clarify technical assumptions with the team.
+    - Design, implement, test and document reliable solutions.
+    - Collaborate during code reviews, planning sessions and demos.
+    - Improve maintainability, performance and quality of the product.
+
+    Must Have Requirements:
+    - Python
+- Machine Learning
+- scikit-learn
+- Pandas
+- NumPy
+- NLP
+- Git
+- Docker
+
+    Nice to Have / Good to Have:
+    - PyTorch
+- TensorFlow
+- Hugging Face Transformers
+- FastAPI
+
+    Soft Skills:
+    - Communication
+    - Teamwork
+    - Problem Solving
+    - Ownership
+
+    Seniority:
+    Open to junior, mid or senior candidates depending on the final profile and project fit.

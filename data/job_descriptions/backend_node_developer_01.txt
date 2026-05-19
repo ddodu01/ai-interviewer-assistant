@@ -1,0 +1,38 @@
+Job Title: Backend Node.js Developer
+
+    Company Context:
+    We are a growing technology team building software products for international clients. The role involves collaboration with developers, QA engineers, product owners and stakeholders.
+
+    Role Overview:
+    Build scalable Node.js APIs for a logistics application.
+
+    Responsibilities:
+    - Analyze requirements and clarify technical assumptions with the team.
+    - Design, implement, test and document reliable solutions.
+    - Collaborate during code reviews, planning sessions and demos.
+    - Improve maintainability, performance and quality of the product.
+
+    Must Have Requirements:
+    - Node.js
+- Express.js
+- JavaScript
+- TypeScript
+- PostgreSQL
+- REST APIs
+- Docker
+- Git
+
+    Nice to Have / Good to Have:
+    - RabbitMQ
+- AWS
+- Kubernetes
+- Redis
+
+    Soft Skills:
+    - Communication
+    - Teamwork
+    - Problem Solving
+    - Ownership
+
+    Seniority:
+    Open to junior, mid or senior candidates depending on the final profile and project fit.

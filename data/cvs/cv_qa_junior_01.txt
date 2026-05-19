@@ -1,0 +1,21 @@
+Candidate Name: Bianca Neagu
+Target Role: QA Engineer
+Current Title: QA Engineer
+Experience: 1.5 years
+
+Professional Summary:
+QA Engineer with 1.5 years of experience. Interested in practical software projects, clean documentation and collaborative teams.
+
+Technical Skills:
+Manual Testing, Selenium, Postman, SQL, Bug Reporting, Attention to Detail
+
+Experience Highlights:
+- Tested web apps and documented defects in Jira.
+- Collaborated with cross-functional teams using Agile practices.
+- Used Git for version control and contributed to code reviews or project documentation.
+
+Education:
+BSc or MSc level studies in Computer Science, Informatics, Engineering or a related field.
+
+Soft Skills:
+Communication, Teamwork, Problem Solving, Time Management, Adaptability

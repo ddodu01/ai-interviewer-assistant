@@ -1,0 +1,37 @@
+Job Title: QA Engineer
+
+    Company Context:
+    We are a growing technology team building software products for international clients. The role involves collaboration with developers, QA engineers, product owners and stakeholders.
+
+    Role Overview:
+    Design and automate test cases for web and API applications.
+
+    Responsibilities:
+    - Analyze requirements and clarify technical assumptions with the team.
+    - Design, implement, test and document reliable solutions.
+    - Collaborate during code reviews, planning sessions and demos.
+    - Improve maintainability, performance and quality of the product.
+
+    Must Have Requirements:
+    - Manual Testing
+- Selenium
+- Postman
+- Test Cases
+- Bug Reporting
+- SQL
+- Attention to Detail
+
+    Nice to Have / Good to Have:
+    - Cypress
+- Playwright
+- Python
+- CI/CD
+
+    Soft Skills:
+    - Communication
+    - Teamwork
+    - Problem Solving
+    - Ownership
+
+    Seniority:
+    Open to junior, mid or senior candidates depending on the final profile and project fit.

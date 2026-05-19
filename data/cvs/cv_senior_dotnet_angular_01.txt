@@ -1,0 +1,52 @@
+Candidate Name: Andrei Ionescu
+Email: andrei.ionescu@example.com
+Phone: +40 700 111 003
+Location: Bucharest, Romania
+Target Role: Senior Full Stack Developer
+
+Summary:
+Senior Full Stack Developer with 8 years of experience building enterprise web applications using C#, .NET, ASP.NET Core, Angular, TypeScript, Entity Framework Core, RESTful APIs, Azure, Docker, and CI/CD pipelines. Experienced in architecture, code reviews, testing, security, and mentoring engineers.
+
+Experience:
+Senior Full Stack Developer
+TechNova Solutions, Bucharest
+2021 - Present
+- Designed and delivered scalable web applications using ASP.NET Core and Angular.
+- Built RESTful APIs with API versioning, Swagger/OpenAPI documentation, OAuth2, and JWT authentication.
+- Used Entity Framework Core for data access, migrations, and relational database modeling.
+- Deployed services to Azure App Services and Azure SQL Database.
+- Improved CI/CD workflows using Azure DevOps Pipelines and GitHub Actions.
+- Reviewed code for architecture, security, maintainability, and performance.
+- Mentored junior developers and helped define engineering standards.
+
+Full Stack Developer
+Digital Bridge Systems, Bucharest
+2017 - 2021
+- Developed backend services in C# and .NET Core.
+- Built Angular frontend modules using TypeScript and component-based design.
+- Wrote unit tests and integration tests using NUnit.
+- Containerized local development environments using Docker and Docker Compose.
+- Improved query performance and database migration reliability.
+
+Technical Skills:
+- Backend: C#, .NET, .NET 8, ASP.NET Core, Entity Framework Core
+- Frontend: Angular, TypeScript, HTML, CSS
+- APIs: RESTful APIs, Swagger/OpenAPI, OAuth2, JWT
+- Databases: SQL Server, Azure SQL Database, relational database design
+- Cloud: Azure App Services, Azure Functions, Azure SQL Database, Azure App Configuration
+- DevOps: Docker, Docker Compose, Azure DevOps Pipelines, GitHub Actions
+- Testing: NUnit, integration testing, test coverage review
+- Architecture: CQRS basics, Domain-Driven Design, distributed systems, event-driven architecture
+- AI Tools: GitHub Copilot, Cursor, Claude Code basics
+
+Education:
+Bachelor's Degree in Computer Science
+Politehnica University of Bucharest
+
+Soft Skills:
+- Technical leadership
+- Analytical thinking
+- Problem-solving
+- Adaptability
+- Code quality mindset
+- Clear communication

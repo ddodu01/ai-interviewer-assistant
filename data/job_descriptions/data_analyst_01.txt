@@ -1,0 +1,37 @@
+Job Title: Data Analyst
+
+    Company Context:
+    We are a growing technology team building software products for international clients. The role involves collaboration with developers, QA engineers, product owners and stakeholders.
+
+    Role Overview:
+    Analyze business data and create dashboards for product and operations teams.
+
+    Responsibilities:
+    - Analyze requirements and clarify technical assumptions with the team.
+    - Design, implement, test and document reliable solutions.
+    - Collaborate during code reviews, planning sessions and demos.
+    - Improve maintainability, performance and quality of the product.
+
+    Must Have Requirements:
+    - SQL
+- Python
+- Pandas
+- Excel
+- Power BI
+- Data Visualization
+- Communication
+
+    Nice to Have / Good to Have:
+    - Tableau
+- BigQuery
+- Snowflake
+- Statistics
+
+    Soft Skills:
+    - Communication
+    - Teamwork
+    - Problem Solving
+    - Ownership
+
+    Seniority:
+    Open to junior, mid or senior candidates depending on the final profile and project fit.

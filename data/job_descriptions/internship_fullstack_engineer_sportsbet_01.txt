@@ -1,0 +1,119 @@
+Job Title: Internship Fullstack Engineer - Sportsbet, Hybrid
+
+Company: Betfair Romania Development
+Brand: Sportsbet
+Location: Cluj-Napoca, Romania
+Work Mode: Hybrid / remote working options
+Seniority Level: Internship / Student
+
+Company Overview:
+Betfair Romania Development is the largest technology hub of Flutter Entertainment. The company has over 2,000 employees and supports leading sports betting and iGaming brands. From the Cluj-Napoca office, Betfair Romania Development contributes to digital products used by over 18 million customers worldwide.
+
+The company works with brands such as FanDuel, PokerStars, Sportsbet, Betfair, Paddy Power, and Sky Betting & Gaming. It focuses on innovation, product quality, and safe digital experiences in the sports betting and iGaming industry.
+
+Company Values:
+- Win together
+- Raise the bar
+- Got your back
+- Own it
+- Positive impact
+
+About Sportsbet:
+Sportsbet is a market leader in the Australian online sports betting market. The brand provides innovative, easy-to-use products and personalized value for users.
+
+Role Overview:
+The Internship Fullstack Engineer role is aimed at an enthusiastic learner who wants to join a dynamic engineering team and work with a rapidly evolving technical stack.
+
+The intern will work in an environment focused on best practices, software quality, and delivering strong user experiences for millions of customers. The ideal candidate has basic knowledge of object-oriented programming, HTML, JavaScript, at least one JavaScript framework, and Java.
+
+Responsibilities:
+- Work with Agile development methodologies.
+- Follow software development best practices.
+- Pursue continuous learning opportunities.
+- Communicate clearly with team members.
+- Be open to feedback.
+- Develop new features across the full stack.
+- Support emerging business and project requirements.
+- Maintain high standards of code quality.
+- Support good application performance.
+
+Must Have Skills:
+- Bachelor's degree or ongoing studies in Computer Science, Information Technology, Engineering, or a related field.
+- Basic understanding of object-oriented programming concepts.
+- Basic JavaScript knowledge.
+- Basic Java knowledge.
+- Basic understanding of HTTP.
+- Basic understanding of HTML.
+- Basic understanding of CSS.
+- Basic experience building cross-platform web applications.
+- Basic experience integrating RESTful APIs.
+- Basic debugging skills.
+- Basic unit testing experience.
+- Basic integration testing experience.
+- Good communication skills.
+- Openness to feedback.
+- Willingness to learn continuously.
+
+Nice to Have Skills:
+- Experience with at least one JavaScript framework.
+- Familiarity with Agile software development.
+- Familiarity with full-stack development.
+- Interest in web application development.
+- Interest in product quality and performance.
+- Interest in sports betting or iGaming products.
+
+Technology Stack and Concepts:
+Frontend:
+- HTML
+- CSS
+- JavaScript
+- JavaScript framework
+- Cross-platform web applications
+
+Backend:
+- Java
+- RESTful APIs
+- Object-oriented programming
+
+Testing and Quality:
+- Unit testing
+- Integration testing
+- Debugging
+- Code quality
+- Application performance
+
+Methodologies:
+- Agile development
+- Best practices
+- Continuous learning
+- Feedback-based improvement
+
+Soft Skills:
+- Communication
+- Team collaboration
+- Openness to feedback
+- Learning mindset
+- Responsibility
+- Adaptability
+
+Benefits:
+- Hybrid and remote working options.
+- 1,000 EUR per year for self-development.
+- Company share scheme.
+- 25 days of annual leave per year.
+- 20 days per year to work abroad.
+- 5 personal days per year.
+- Flexible benefits for travel, sports, and hobbies.
+- Extended health insurance.
+- Dental insurance.
+- Travel insurance.
+- Customized well-being programmes.
+- Career growth sessions.
+- Access to thousands of online courses through Udemy.
+- Engaging office events.
+
+Diversity and Inclusion Note:
+The company is an inclusive employer and encourages applications from people with diverse experiences and perspectives. Candidates do not need to meet every listed requirement to apply. Adjustments may be offered when needed to support candidates during the hiring process.
+
+Application Data Note:
+By applying online, candidates agree that their details may be used to process their employment application. If the application is successful, the details may be used to administer the personnel record. If unsuccessful, the details may be retained for a limited period to consider the candidate for future roles.

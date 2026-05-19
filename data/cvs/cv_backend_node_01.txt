@@ -1,0 +1,21 @@
+Candidate Name: Sorin Matei
+Target Role: Backend Node.js Developer
+Current Title: Backend Node.js Developer
+Experience: 4 years
+
+Professional Summary:
+Backend Node.js Developer with 4 years of experience. Interested in practical software projects, clean documentation and collaborative teams.
+
+Technical Skills:
+Node.js, Express.js, TypeScript, PostgreSQL, Redis, Docker, RabbitMQ, AWS
+
+Experience Highlights:
+- Developed logistics APIs and event-driven workflows.
+- Collaborated with cross-functional teams using Agile practices.
+- Used Git for version control and contributed to code reviews or project documentation.
+
+Education:
+BSc or MSc level studies in Computer Science, Informatics, Engineering or a related field.
+
+Soft Skills:
+Communication, Teamwork, Problem Solving, Time Management, Adaptability

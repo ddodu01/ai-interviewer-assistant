@@ -1,0 +1,38 @@
+Job Title: Cloud Engineer
+
+    Company Context:
+    We are a growing technology team building software products for international clients. The role involves collaboration with developers, QA engineers, product owners and stakeholders.
+
+    Role Overview:
+    Support migration of services to public cloud environments.
+
+    Responsibilities:
+    - Analyze requirements and clarify technical assumptions with the team.
+    - Design, implement, test and document reliable solutions.
+    - Collaborate during code reviews, planning sessions and demos.
+    - Improve maintainability, performance and quality of the product.
+
+    Must Have Requirements:
+    - AWS
+- Azure
+- Linux
+- Terraform
+- Docker
+- IAM
+- Networking
+- Problem Solving
+
+    Nice to Have / Good to Have:
+    - Kubernetes
+- CloudFormation
+- CI/CD
+- Security
+
+    Soft Skills:
+    - Communication
+    - Teamwork
+    - Problem Solving
+    - Ownership
+
+    Seniority:
+    Open to junior, mid or senior candidates depending on the final profile and project fit.
