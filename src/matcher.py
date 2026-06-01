@@ -54,7 +54,7 @@ def match_skills(jd_skills_list: list[dict], cv_skills_list: list[dict],
     if not cv_names:
         return pd.DataFrame([{
             "jd_skill": s["skill"],
-            "category": s["category"],
+            "skill_type": s.get("skill_type", "Unknown"),
             "priority": s["priority"],
             "best_cv_match": "N/A",
             "similarity_score": 0.0,
@@ -74,7 +74,7 @@ def match_skills(jd_skills_list: list[dict], cv_skills_list: list[dict],
 
         results.append({
             "jd_skill": jd_skill["skill"],
-            "category": jd_skill["category"],
+            "skill_type": jd_skill.get("skill_type", "Unknown"),
             "priority": jd_skill["priority"],
             "best_cv_match": best_match,
             "similarity_score": round(best_score, 4),
@@ -82,3 +82,21 @@ def match_skills(jd_skills_list: list[dict], cv_skills_list: list[dict],
         })
 
     return pd.DataFrame(results)
+
+
+def compute_candidate_score(df: pd.DataFrame) -> dict:
+    must_have = df[df["priority"] == "must_have"]
+    good_to_have = df[df["priority"] == "good_to_have"]
+
+    # Protecție dacă una din liste e goală
+    must_score = (must_have["match"] == "Da").mean() * 70 if len(must_have) > 0 else 0
+    good_score = (good_to_have["match"] == "Da").mean() * 30 if len(good_to_have) > 0 else 0
+
+    total = round(must_score + good_score, 2)
+
+    return {
+        "total_score": total,
+        "must_have_coverage": f"{(must_have['match'] == 'Da').mean() * 100:.1f}%" if len(must_have) > 0 else "N/A",
+        "good_to_have_coverage": f"{(good_to_have['match'] == 'Da').mean() * 100:.1f}%" if len(good_to_have) > 0 else "N/A",
+        "recommendation": "Recomandat" if total >= 70 else "Partial" if total >= 40 else "Nerecomandat"
+    }
