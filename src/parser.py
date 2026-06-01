@@ -166,9 +166,13 @@ if __name__ == "__main__":
     # python src/parser.py data/job_descriptions/python_developer_01.txt
     import sys
 
-    if len(sys.argv) != 2:
-        print("Usage: python src/parser.py <path_to_document>")
-        raise SystemExit(1)
+    # if len(sys.argv) != 2:
+    #     print("Usage: python src/parser.py <path_to_document>")
+    #     raise SystemExit(1)
 
-    print(parse_document(sys.argv[1])[:2000])
-    
+    # print(parse_document(sys.argv[1])[:2000])
+    from datasets import load_dataset
+
+    jobs = load_dataset("batuhanmtl/job-skill-set")
+    print(jobs)
+    print(jobs["train"][0])
