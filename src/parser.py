@@ -17,30 +17,33 @@ SUPPORTED_EXTENSIONS = {".pdf", ".docx", ".txt"}
 
 
 def parse_pdf(file_path: str) -> str:
-    """Extract text from a PDF file using PyPDF2.
+    """Extract text from a PDF file using pdfplumber.
 
-    Notes:
-    - Works best on text-based PDFs.
-    - Scanned/image-only PDFs usually need OCR, which is outside this task.
+    Better than PyPDF2 for CVs and job descriptions with columns/layout.
     """
     path = Path(file_path)
+
     if not path.exists():
         raise FileNotFoundError(f"File not found: {file_path}")
 
     try:
-        import PyPDF2
+        import pdfplumber
     except ImportError as exc:
-        raise ImportError("PyPDF2 is required for PDF parsing. Install it with: pip install PyPDF2") from exc
+        raise ImportError(
+            "pdfplumber is required for PDF parsing. Install it with: pip install pdfplumber"
+        ) from exc
 
     pages_text: list[str] = []
-    with path.open("rb") as pdf_file:
-        reader = PyPDF2.PdfReader(pdf_file)
-        for page_number, page in enumerate(reader.pages, start=1):
-            text = page.extract_text() or ""
+
+    with pdfplumber.open(str(path)) as pdf:
+        for page_number, page in enumerate(pdf.pages, start=1):
+            text = page.extract_text(layout=True) or ""
+
             if text.strip():
                 pages_text.append(text)
             else:
                 pages_text.append(f"\n[Page {page_number}: no extractable text]\n")
+
     return "\n".join(pages_text)
 
 
@@ -97,14 +100,7 @@ def parse_txt(file_path: str) -> str:
 
 
 def clean_text(text: str) -> str:
-    """Clean extracted document text while preserving useful line breaks.
-
-    Cleaning rules:
-    - normalize Windows/Mac line endings
-    - remove tabs and repeated spaces
-    - remove excessive blank lines
-    - remove common bullet/control characters while keeping readable punctuation
-    """
+    """Clean extracted document text and remove unnecessary empty lines."""
     if not text:
         return ""
 
@@ -112,23 +108,32 @@ def clean_text(text: str) -> str:
     text = text.replace("\t", " ")
 
     # Replace common bullet symbols with a simple dash.
-    text = re.sub(r"[•●▪▫◦]", "-", text)
+    text = re.sub(r"[•●▪▫◦·]", "-", text)
 
     # Remove non-printable control characters except newlines.
     text = re.sub(r"[^\S\n]+", " ", text)
 
-    # Strip each line and remove lines that become empty later.
-    lines = [line.strip() for line in text.split("\n")]
-    text = "\n".join(lines)
+    lines = []
 
-    # Collapse 3+ blank lines into max 2 blank lines.
-    text = re.sub(r"\n{3,}", "\n\n", text)
+    for line in text.split("\n"):
+        line = line.strip()
 
-    # Collapse repeated spaces inside lines.
-    text = re.sub(r" {2,}", " ", text)
+        # Collapse repeated spaces.
+        line = re.sub(r" {2,}", " ", line)
 
-    return text.strip()
+        # Repair some PDF extraction artifacts like:
+        # "M athematics" -> "Mathematics"
+        # "Com puter" -> "Computer"
+        line = re.sub(r"\b([A-Za-z])\s+([a-z]{2,})\b", r"\1\2", line)
 
+        # Repair hyphen + spaced word artifacts:
+        # "real- tim e" -> "real-time"
+        line = re.sub(r"-\s+", "-", line)
+
+        if line:
+            lines.append(line)
+
+    return "\n".join(lines).strip()
 
 def parse_document(file_path: str) -> str:
     """Detect file extension and return cleaned text from PDF, DOCX or TXT."""
@@ -166,13 +171,16 @@ if __name__ == "__main__":
     # python src/parser.py data/job_descriptions/python_developer_01.txt
     import sys
 
-    # if len(sys.argv) != 2:
-    #     print("Usage: python src/parser.py <path_to_document>")
-    #     raise SystemExit(1)
+    if len(sys.argv) != 2:
+        print("Usage: python src/parser.py <path_to_document>")
+        raise SystemExit(1)
 
-    # print(parse_document(sys.argv[1])[:2000])
-    from datasets import load_dataset
+    file_path = sys.argv[1]
+    parsed_text = parse_document(file_path)
 
-    jobs = load_dataset("batuhanmtl/job-skill-set")
-    print(jobs)
-    print(jobs["train"][0])
+    print(parsed_text[:3000])
+    # from datasets import load_dataset
+
+    # jobs = load_dataset("batuhanmtl/job-skill-set")
+    # print(jobs)
+    # print(jobs["train"][0])
