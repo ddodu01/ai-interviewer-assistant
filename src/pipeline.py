@@ -42,35 +42,20 @@ except ImportError:
     import pandas as pd
     import random
 
-
-    def match_skills(jd_skills: list, cv_skills: list, threshold: float = 0.7) -> "pd.DataFrame":
-        """Mock: generează un tabel dummy de matching."""
+    def match_skills(jd_skills_list, cv_skills_list, threshold=0.5):
         rows = []
-        for skill in jd_skills:
-            # Extrage numele skill-ului indiferent dacă e dict sau string
-            if isinstance(skill, dict):
-                skill_name = skill.get("skill") or skill.get("name") or str(skill)
-            else:
-                skill_name = str(skill)
-
+        for skill in jd_skills_list:
+            skill_name = skill.get("skill") or str(skill)
             score = random.uniform(0.5, 1.0)
-
-            cv_names = []
-            for s in cv_skills:
-                if isinstance(s, dict):
-                    cv_names.append((s.get("skill") or s.get("name") or str(s)).lower())
-                else:
-                    cv_names.append(str(s).lower())
-
-            has_skill = skill_name.lower() in cv_names or score >= threshold
             rows.append({
-                "Competență": skill_name,
-                "Tip": "Must Have" if random.random() > 0.4 else "Good to Have",
-                "Candidat are competența": "Da" if has_skill else "Nu",
-                "Scor similaritate": round(score, 3),
+                "jd_skill": skill_name,
+                "skill_type": skill.get("skill_type", "Unknown"),
+                "priority": skill.get("priority", "Unknown"),
+                "best_cv_match": "N/A",
+                "similarity_score": round(score, 4),
+                "match": "Da" if score >= threshold else "Nu"
             })
         return pd.DataFrame(rows)
-
 # ─── Pipeline principal ──────────────────────────────────────────────────────
 
 SUPPORTED_EXTENSIONS = {".pdf", ".docx", ".txt"}
