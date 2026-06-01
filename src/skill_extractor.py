@@ -3,7 +3,9 @@ from spacy.matcher import PhraseMatcher
 import pandas as pd
 import re
 
+
 nlp = spacy.load("en_core_web_md")
+#nlp = spacy.load("en_core_web_sm")
 
 
 def load_skills_database(csv_path: str = "data/skills_dataset.csv") -> pd.DataFrame:
