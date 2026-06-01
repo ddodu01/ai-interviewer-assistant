@@ -1,0 +1,56 @@
+jd_file,skill,priority
+frontend_developer_01.txt,JavaScript,must_have
+frontend_developer_01.txt,TypeScript,must_have
+frontend_developer_01.txt,React,must_have
+frontend_developer_01.txt,HTML,must_have
+frontend_developer_01.txt,CSS,must_have
+frontend_developer_01.txt,Git,must_have
+frontend_developer_01.txt,REST APIs,must_have
+frontend_developer_01.txt,Next.js,good_to_have
+frontend_developer_01.txt,Tailwind CSS,good_to_have
+frontend_developer_01.txt,Jest,good_to_have
+frontend_developer_01.txt,Figma,good_to_have
+machine_learning_engineer_01.txt,Python,must_have
+machine_learning_engineer_01.txt,Machine Learning,must_have
+machine_learning_engineer_01.txt,scikit-learn,must_have
+machine_learning_engineer_01.txt,Pandas,must_have
+machine_learning_engineer_01.txt,NumPy,must_have
+machine_learning_engineer_01.txt,Natural Language Processing,must_have
+machine_learning_engineer_01.txt,Git,must_have
+machine_learning_engineer_01.txt,Docker,must_have
+machine_learning_engineer_01.txt,PyTorch,good_to_have
+machine_learning_engineer_01.txt,TensorFlow,good_to_have
+machine_learning_engineer_01.txt,Hugging Face Transformers,good_to_have
+machine_learning_engineer_01.txt,FastAPI,good_to_have
+data_analyst_01.txt,SQL,must_have
+data_analyst_01.txt,Python,must_have
+data_analyst_01.txt,Pandas,must_have
+data_analyst_01.txt,Power BI,must_have
+data_analyst_01.txt,Data Visualization,must_have
+data_analyst_01.txt,Tableau,good_to_have
+data_analyst_01.txt,BigQuery,good_to_have
+data_analyst_01.txt,Snowflake,good_to_have
+data_analyst_01.txt,Statistics,good_to_have
+devops_engineer_01.txt,Linux,must_have
+devops_engineer_01.txt,Docker,must_have
+devops_engineer_01.txt,Kubernetes,must_have
+devops_engineer_01.txt,Terraform,must_have
+devops_engineer_01.txt,AWS,must_have
+devops_engineer_01.txt,CI/CD,must_have
+devops_engineer_01.txt,GitHub Actions,must_have
+devops_engineer_01.txt,Git,must_have
+devops_engineer_01.txt,Helm,good_to_have
+devops_engineer_01.txt,Prometheus,good_to_have
+devops_engineer_01.txt,Grafana,good_to_have
+devops_engineer_01.txt,Python,good_to_have
+python_developer_01.txt,Python,must_have
+python_developer_01.txt,FastAPI,must_have
+python_developer_01.txt,SQL,must_have
+python_developer_01.txt,PostgreSQL,must_have
+python_developer_01.txt,Git,must_have
+python_developer_01.txt,REST APIs,must_have
+python_developer_01.txt,Docker,must_have
+python_developer_01.txt,Unit Testing,must_have
+python_developer_01.txt,AWS,good_to_have
+python_developer_01.txt,Kubernetes,good_to_have
+python_developer_01.txt,CI/CD,good_to_have
